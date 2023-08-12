@@ -3,7 +3,7 @@ import asyncio
 import random
 from typing import Generator
 """
-write a async python generator
+write a async python generator that return a list of values
 """
 
 
